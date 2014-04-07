@@ -56,18 +56,23 @@ small {
   background-color: lavender
 }
 
+table {
+  border:  .75px solid gray;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
 th {
   background-color: black;
-  font-family: arial;
-  font-size: 18px;
+  font-family: Helvetica;
+  font-size: 20px;
   letter-spacing: .15em;
   color: white;
 }
 
-table {
-
-
-}
+td {
+  font-family: Helvetica;
+ }
 
 
 /* ----------------------------------------------------------------- */
