@@ -1,8 +1,15 @@
 body {
   font-family: "Computer Modern Serif";
   font-size: 16pt;
+  margin: 100px 150px;
+
 }
 
+h1 {
+  font-family: "Computer Modern Serif";
+  font-size: 30pt;
+  letter-spacing: 8px;
+}
 
 /* ----------------------------------------------------------------- */
 /* The scary stuff below is just to get the right font loaded up.    */
