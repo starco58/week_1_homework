@@ -46,6 +46,30 @@ small {
   text-transform: none;
 }
 
+.week {
+  -webkit-transform: rotate(-90deg);
+  font-family: Helvetica;
+  font-size: 22px;
+}
+
+.odd_week {
+  background-color: lavender
+}
+
+th {
+  background-color: black;
+  font-family: arial;
+  font-size: 18px;
+  letter-spacing: .15em;
+  color: white;
+}
+
+table {
+
+
+}
+
+
 /* ----------------------------------------------------------------- */
 /* The scary stuff below is just to get the right font loaded up.    */
 /* Don't worry about it. Write your CSS rules above the dotted line. */
