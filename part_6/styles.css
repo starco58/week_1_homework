@@ -1,14 +1,40 @@
 body {
   font-family: "Computer Modern Serif";
   font-size: 16pt;
+  letter-spacing: 2px;
   margin: 100px 150px;
 
+}
+
+header {
+  position: justify;
+  left:75px;
+  right:75px;
+  
 }
 
 h1 {
   font-family: "Computer Modern Serif";
   font-size: 30pt;
   letter-spacing: 8px;
+}
+
+h2 {
+  border-top-style:solid;
+  border-top-width: 2px;
+  border-bottom-style:solid;
+  border-bottom-width: 1px;
+  font-family: "sans-serif";
+  font-size: 20pt;
+  letter-spacing: 3px;
+}
+
+dt {
+  float:left; 
+}
+
+dd {
+  margin-left:165px;
 }
 
 /* ----------------------------------------------------------------- */
