@@ -41,7 +41,9 @@ dd {
 
 small {
   font-style: italic;
-  font-size: 11pt;
+  font-size: 9pt;
+  letter-spacing: 3px;
+  text-transform: none;
 }
 
 /* ----------------------------------------------------------------- */
